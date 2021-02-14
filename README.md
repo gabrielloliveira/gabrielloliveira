@@ -3,9 +3,9 @@
 
 ### Você pode me achar no/na:
 
-📷 [Instagram](https://instagram.com/ohmycodebr/) <br>
 📱 [Telegram](https://t.me/gabrielloliveira/) <br>
 ⚛️ [ohmycode](https://ohmycode.com.br) <br>
+📷 [Instagram](https://instagram.com/ohmycodebr/) <br>
 
 ### 📕 Últimas postagens
 
