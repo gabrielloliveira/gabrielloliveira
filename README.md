@@ -1,3 +1,5 @@
+<img src="https://github.com/gabrielloliveira/gabrielloliveira/blob/main/banner.png" style="display:block; margin: 0 auto;">
+
 💻 Desenvovedor FullStack Django e eoutras coisinhas a mais.<br>
 🌵 Piauiense 
 
