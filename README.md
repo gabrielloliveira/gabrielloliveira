@@ -1,5 +1,5 @@
-💻 Desenvovedor FullStack Django e eoutras coisinhas a mais.
-🏡 Piauiense 🌵
+💻 Desenvovedor FullStack Django e eoutras coisinhas a mais.<br>
+🌵 Piauiense 
 
 ### Você pode me achar no/na:
 
